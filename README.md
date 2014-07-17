@@ -10,7 +10,7 @@ Download it, navigate to the root of these files in cmd/terminal and type "node 
 To view the application go to localhost:3030 in your browser.
 
 
-#### Change the groups of users.
+#### Change users to follow
 To change the group of twitter users to follow, replace the names in the array (found in Data.js) with the users you want others to follow.
 
 ### Developing
