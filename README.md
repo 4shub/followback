@@ -3,10 +3,11 @@ Followgroup is a tool used to follow a group of twitter users that are in an arr
 
 
 ### Usage
-You need Node and NPM to run this program.
-You need a twitter key to use this program
+You need Node and NPM to run this program and a valid twitter key to use this program
 
-Download it, navigate to the root in cmd/terminal and type "node app.js" and go to localhost:3030 in your browser.
+Download it, navigate to the root of these files in cmd/terminal and type "node app.js" 
+
+To view the application go to localhost:3030 in your browser.
 
 To change the group of twitter users to follow, replace the names in the array (found in Data.js) with the users you want others to follow.
 
