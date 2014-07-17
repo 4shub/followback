@@ -7,6 +7,6 @@ Setup
 Go to terminal/cmd and navigate to the root, type Node App.js to start the program.
 
 
-Change the list
+Changing the list
 ==========
 The list is an array located in the data.js folder. I don't plan to addding anything more to the project.
