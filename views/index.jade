@@ -1,0 +1,8 @@
+block content
+	div(style='text-align:center')
+		div(style='margin:10px; padding:20px;')
+			a(href='/auth/twitter' style='font-size:20px; font-family:arial; color:rgba(64, 158, 227, 1); text-decoration:none;') Click here to follow the following users
+		-for(var i = 0; i < items.length; i++){
+			div
+				| <a style='color:rgba(81, 103, 119, 1); font-family:arial;  text-decoration:none;' href='http://twitter.com/@!{items[i]}'>@!{items[i]}</a>
+		-}

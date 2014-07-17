@@ -1,12 +1,18 @@
-Followback
-==========
-A NodeJs Application to follow back a list of users.
+# hubyard_alpha
 
-Setup
-==========
-Go to terminal/cmd and navigate to the root, type Node App.js to start the program.
+## Objective
 
 
-Changing the list
-==========
-The list is an array located in the data.js folder. I don't plan to addding anything more to the project.
+
+## Usage
+
+
+
+## Developing
+
+
+
+### Tools
+
+Created with [Nodeclipse v0.5](https://github.com/Nodeclipse/nodeclipse-1)
+ ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
